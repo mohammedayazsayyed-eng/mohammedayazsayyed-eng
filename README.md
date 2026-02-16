@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently a college student in my final semester. <br>I am looking for an intern or a full-time job <br>I've worked on multiple projects with my brother. <br>I am still learning <br>I am new to this industry and have little to nothing to offer, but I am enthusiastic to learn more. I don't just want to learn, but I want an opportunity to implement whatever I learn.<br>I've always been a fast learner. <br>In 8th I participated in "International space Olympiad" in which from 8th to 12th, students could participate, and in that I ranked 11th.<br>If you hire me then you'll never have to worry about deadlines.
+# Hey there 🙋‍♂️
+I'm Ayaz, currently a college student in my final semester. <br>I am looking for an internship or a full-time job <br>I've worked on multiple projects with my brother on different languages like Node.js, Flutter, Liquid. <br>I am still learning <br>I am new to this industry and have little to nothing to offer, but I am enthusiastic to learn more. I don't just want to learn, but I want an opportunity to implement whatever I learn.<br>I've always been a fast learner. <br>In 8th I participated in "International space Olympiad" in which from 8th to 12th, students could participate, and in that I ranked 11th.<br>If you hire me then you'll never have to worry about deadlines.
 
 
 ## 🌐 Socials:
